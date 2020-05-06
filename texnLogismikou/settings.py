@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'texnLogismikouApp.apps.TexnlogismikouappConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
