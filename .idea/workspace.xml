@@ -27,6 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b1bd39c6-98df-4abd-a985-5d22de1357ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texnLogismikouApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/texnLogismikouApp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,7 @@
       <updated>1588752453105</updated>
       <workItem from="1588752501512" duration="3609000" />
       <workItem from="1588756989580" duration="919000" />
-      <workItem from="1588757940065" duration="2689000" />
+      <workItem from="1588757940065" duration="4224000" />
     </task>
     <task id="LOCAL-00001" summary="test with framework ,not to be included">
       <created>1588755535274</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588759507289</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="heroku deploy test">
+      <created>1588760638093</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588760638093</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,10 +177,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1171" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588758157114" />
-    <state x="1036" y="92" key="CommitChangelistDialog2" timestamp="1588759506375">
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588762062639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1036" y="92" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588759506375" />
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588762062639" />
+    <state x="1036" y="92" key="CommitChangelistDialog2" timestamp="1588760637246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1036" y="92" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588760637246" />
     <state x="1296" y="418" key="Github.ShareDialog" timestamp="1588752552960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,10 +229,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="168" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588758217857" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1588759514059">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1588760646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588759514059" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588760646680" />
     <state x="1913" y="0" width="974" height="1047" key="dock-window-1" timestamp="1588757312971">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
