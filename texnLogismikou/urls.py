@@ -15,7 +15,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.urls import path, re_path
+from django.contrib import admin
+import texnLogismikouApp.views as log_app
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path(r'', log_app.AllTech.as_view()),   #this is test
+    re_path(r'(?P<pk>\d+)', log_app.TechView.as_view()),#this is test
 ]
