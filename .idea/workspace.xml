@@ -1,6 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:deploy_test" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1bd39c6-98df-4abd-a985-5d22de1357ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test_branch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1bWeomoCxPHVTLhoUTOL4KPn1K4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="texnLogismikou" type="Python.DjangoServer" factoryName="Django server">
+      <module name="texnLogismikou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="texnLogismikou.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1bd39c6-98df-4abd-a985-5d22de1357ba" name="Default Changelist" comment="" />
+      <created>1588752453105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588752453105</updated>
+      <workItem from="1588752501512" duration="3609000" />
+      <workItem from="1588756989580" duration="919000" />
+      <workItem from="1588757940065" duration="2689000" />
+    </task>
+    <task id="LOCAL-00001" summary="test with framework ,not to be included">
+      <created>1588755535274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588755535274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="heroku deploy test">
+      <created>1588759303887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588759303887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="heroku deploy test">
+      <created>1588759507289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588759507289</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="deploy_test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test with framework ,not to be included" />
+    <MESSAGE value="heroku deploy test" />
+    <option name="LAST_COMMIT_MESSAGE" value="heroku deploy test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1171" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588758157114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588758157114" />
+    <state x="1036" y="92" key="CommitChangelistDialog2" timestamp="1588759506375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1036" y="92" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588759506375" />
+    <state x="1296" y="418" key="Github.ShareDialog" timestamp="1588752552960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1296" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588752552960" />
+    <state x="1175" y="225" key="Github.UntrackedFilesDialog" timestamp="1588752566646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1175" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588752566646" />
+    <state width="981" height="103" key="GridCell.Tab.0.bottom" timestamp="1588756115361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115361" />
+    <state width="981" height="103" key="GridCell.Tab.0.center" timestamp="1588756115361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115361" />
+    <state width="981" height="103" key="GridCell.Tab.0.left" timestamp="1588756115361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115361" />
+    <state width="981" height="103" key="GridCell.Tab.0.right" timestamp="1588756115361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115361" />
+    <state width="981" height="103" key="GridCell.Tab.1.bottom" timestamp="1588756115362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115362" />
+    <state width="981" height="103" key="GridCell.Tab.1.center" timestamp="1588756115362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115362" />
+    <state width="981" height="103" key="GridCell.Tab.1.left" timestamp="1588756115361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115361" />
+    <state width="981" height="103" key="GridCell.Tab.1.right" timestamp="1588756115362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="103" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588756115362" />
+    <state x="922" y="168" key="SettingsEditor" timestamp="1588758217857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588758217857" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1588759514059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588759514059" />
+    <state x="1913" y="0" width="974" height="1047" key="dock-window-1" timestamp="1588757312971">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1913" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588757312971" />
+    <state x="1069" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1588755065687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1069" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588755065687" />
   </component>
 </project>
