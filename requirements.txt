@@ -23,7 +23,7 @@ requests==2.23.0
 sh==1.13.1
 six==1.14.0
 sqlparse==0.3.1
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.20
 waitress==1.4.3
 whitenoise==5.0.1
